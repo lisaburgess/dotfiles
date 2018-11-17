@@ -12,19 +12,13 @@ e_arrow "Installing cask apps"
 
 apps=(
   1password
-  adobe-creative-cloud
   alfred
   appcleaner
-  bartender
-  caffeine
-  charles
   dropbox
   evernote
   firefox
   google-chrome
   iterm2
-  opera
-  reaper
   slack
   spotify
   sublime-text
